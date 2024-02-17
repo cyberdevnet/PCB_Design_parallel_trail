@@ -1,4 +1,4 @@
-21689345255785098
+21702986874135397
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -9764,6 +9764,20 @@ DSUB-62-HD_Male_Vertical_P2.41x1.98mm_MountingHoles
 0
 64
 63
+Connector_FFC-FPC
+AFC01S06FCC00
+AFC01-S06FCC-00-2
+Connector
+0
+8
+8
+Connector_FFC-FPC
+FPC_14
+
+
+0
+14
+14
 Connector_FFC-FPC
 Hirose_FH12-6S-0.5SH_1x06-1MP_P0.50mm_Horizontal
 Hirose FH12, FFC/FPC connector, FH12-6S-0.5SH, 6 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
@@ -46816,6 +46830,13 @@ connector TE-Connectivity Micro-MaTch Vertical 215079-8 7-215079-8
 8
 8
 Connector_USB
+USB-C-16P-5
+
+
+0
+20
+20
+Connector_USB
 USB3_A_Molex_48393-001
 USB 3.0, type A, right angle (http://www.molex.com/pdm_docs/sd/483930003_sd.pdf)
 USB 3.0 type A right angle
@@ -52724,6 +52745,13 @@ Vishay KBU rectifier diode bridge
 4
 4
 Display
+5.0inch_ESP32-8048S050
+
+
+0
+0
+0
+Display
 AG12864E
 STN/FSTN LCD 128x64 dot https://www.digchip.com/datasheets/parts/datasheet/1121/AG-12864E-pdf.php
 AG12864E Graphics Display 128x64 Ampire
@@ -52989,6 +53017,13 @@ LCD 16x2 Alphanumeric 16pin
 0
 22
 18
+Display
+SSD1306-0.91-OLED-4pin-128x32
+
+
+0
+4
+4
 Display
 WC1602A
 LCD 16x2 http://www.wincomlcd.com/pdf/WC1602A-SFYLYHTC06.pdf
@@ -57907,6 +57942,13 @@ Inductor_SMD
 L_Wuerth_WE-TPC-3816
 L_Wuerth_WE-TPC-3816 StepUp generated footprint, http://katalog.we-online.de/pbs/datasheet/7440310047.pdf
 wurth wuerth smd inductor
+0
+2
+2
+Inductor_SMD
+xess-CR54
+SUMIDA POWER INDUCTOR
+SUMIDA POWER INDUCTOR
 0
 2
 2
@@ -69328,6 +69370,13 @@ QFN NoLead
 103
 77
 Package_DFN_QFN
+QFN50P400X400X80-25N
+
+
+0
+25
+25
+Package_DFN_QFN
 Qorvo_DFN-8-1EP_2x2mm_P0.5mm
 DFN 8 2x2mm, 0.5mm http://www.qorvo.com/products/d/da000896
 DFN 0.5 Qorvo 2x2mm
@@ -76922,6 +76971,13 @@ Rohm HRP7 SMD
 0
 69
 7
+Package_TO_SOT_SMD
+S8050-SOT-23
+<b>SOT23</b>
+
+0
+3
+3
 Package_TO_SOT_SMD
 SC-59
 SC-59, https://lib.chipdip.ru/images/import_diod/original/SOT-23_SC-59.jpg
