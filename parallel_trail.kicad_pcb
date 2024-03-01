@@ -249,7 +249,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "CP_*")
+		(property "ki_fp_filters" "CP_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "248e163f-9aae-474e-981d-ff5edafbef43")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/c99a1d32-c1b1-4e2d-b297-969899ff3666")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -459,7 +469,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_*")
+		(property "ki_fp_filters" "R_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "a6f6574b-9195-46be-a455-eff3f1ff50e3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/5e930c8f-89e9-492d-848d-3f4030acddf1")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -669,7 +689,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_*")
+		(property "ki_fp_filters" "R_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "a55408c7-96e0-43b6-a240-b5598963eba9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/307e2f96-810e-4a3d-8491-c9789f4a7656")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -879,7 +909,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "CP_*")
+		(property "ki_fp_filters" "CP_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "00906fa7-a225-40f1-b947-bc666e6a2a5d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/4aa034c2-7198-44ad-9fa0-d9273c79a0a6")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -1089,7 +1129,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "CP_*")
+		(property "ki_fp_filters" "CP_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "9164f5e1-dca5-4892-b6b0-9a207b6516d9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/3ae482ce-e022-4169-a140-99e8126d1684")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -1299,7 +1349,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "CP_*")
+		(property "ki_fp_filters" "CP_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "a196ac32-202f-4dff-b674-db55c8b732dc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/811ae17b-1e70-466e-8962-1fc4d64b0049")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -1509,7 +1569,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "C_*")
+		(property "ki_fp_filters" "C_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "20367c73-64a8-44d1-afed-3d19664089a8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/6199f995-f628-40d4-8836-5925caba7321")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -1719,7 +1789,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_*")
+		(property "ki_fp_filters" "R_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "4fe1e0d4-60c7-4b67-a540-26e7325ab4c1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/c65c0cc6-68e5-4459-9236-6e32a7def842")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -1929,7 +2009,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "CP_*")
+		(property "ki_fp_filters" "CP_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "3f52a2b8-8d2f-456d-af23-8597fe028e48")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/a29e3665-8e80-445b-a189-19d1d222b5f5")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -2139,7 +2229,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_*")
+		(property "ki_fp_filters" "R_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "d4878790-9178-4480-866b-ea408f414276")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/fba1b99e-b0e7-4de0-aafe-e5ab03e39bfe")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -2349,7 +2449,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_*")
+		(property "ki_fp_filters" "R_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "76a85f97-62f1-4698-944f-389b1734defe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/42a63776-dc16-446d-906b-229daf5c334b")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -2559,7 +2669,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "C_*")
+		(property "ki_fp_filters" "C_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "b72c1dd6-1592-4908-8e1d-ed480083b6e7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/c27c4bc3-c73c-4c72-9d6c-a0c3cfd70a95")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -2769,7 +2889,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "C_*")
+		(property "ki_fp_filters" "C_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "baef07ac-d0c6-4a30-88ec-13b3172ab54f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/1a012ff5-0ea6-4381-95c4-cc75ea63a387")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -2979,7 +3109,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TO*99* OnSemi*Micro8* TSSOP*3x3mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm* MSOP*3x3mm*P0.65mm* SSOP*3.9x4.9mm*P0.635mm* LFCSP*2x2mm*P0.5mm* *SIP* SOIC*5.3x6.2mm*P1.27mm*")
+		(property "ki_fp_filters" "SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TO*99* OnSemi*Micro8* TSSOP*3x3mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm* MSOP*3x3mm*P0.65mm* SSOP*3.9x4.9mm*P0.635mm* LFCSP*2x2mm*P0.5mm* *SIP* SOIC*5.3x6.2mm*P1.27mm*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "a5680612-fb02-47ce-82c5-32c831c74856")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/e810b34f-71c1-4120-a8cd-4d1ff3a90a91")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -3279,7 +3419,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_*")
+		(property "ki_fp_filters" "R_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "25ae7404-5375-4329-b812-462cf159882b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/b1999548-03c0-4c82-bba6-abcd3fc3d0a0")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -3489,7 +3639,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_*")
+		(property "ki_fp_filters" "R_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "26a31e57-1d56-41fb-bece-9c5162f0c71a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/1bb3e02d-dd6a-458c-9e1d-5e6742c39cf5")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -3699,7 +3859,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "C_*")
+		(property "ki_fp_filters" "C_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "5b8073b8-54cb-4706-9a5d-177db0888ba9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/2069d3f7-4c46-4eb0-99e7-acefd8b5d759")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -3909,7 +4079,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "CP_*")
+		(property "ki_fp_filters" "CP_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "1f130c10-2cdb-43ff-8d55-75ec77f51fbf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/0bdaa9ae-6fa7-4b86-829b-b776a4ea1245")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -4119,7 +4299,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_*")
+		(property "ki_fp_filters" "R_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "1cc6e201-9ff9-4b0f-bd5b-a9da74392283")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/762392ae-b7cf-4856-9562-7e597a565ce6")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -4329,7 +4519,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "CP_*")
+		(property "ki_fp_filters" "CP_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "7776a934-56f3-4566-8261-62f07d0c96fe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/ec50ccca-872c-4bf6-8bc7-81781b1d99f7")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -4539,7 +4739,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "SOIC*3.9x8.7mm*P1.27mm* DIP*W7.62mm* TSSOP*4.4x5mm*P0.65mm* SSOP*5.3x6.2mm*P0.65mm* MSOP*3x3mm*P0.5mm*")
+		(property "ki_fp_filters" "SOIC*3.9x8.7mm*P1.27mm* DIP*W7.62mm* TSSOP*4.4x5mm*P0.65mm* SSOP*5.3x6.2mm*P0.65mm* MSOP*3x3mm*P0.5mm*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "3a34d637-d831-444e-8186-d66d3f7bddaf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/e46cc2cc-d94b-41ac-963f-6f71f2ec19c2")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -4897,7 +5107,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_*")
+		(property "ki_fp_filters" "R_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "f832bff7-1240-4c29-9538-af38698bfa69")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/f9fd8c3e-4cb9-4c51-9013-e86a1ed0b698")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -5107,7 +5327,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_*")
+		(property "ki_fp_filters" "R_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "687aab66-c8d8-4dab-9b68-b59c31abaa16")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/8b187622-63ba-473e-8846-e68a62837bd0")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -5317,7 +5547,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_*")
+		(property "ki_fp_filters" "R_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "255230e7-6de0-4544-8ec1-9fbaded623fb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/4d5eac54-5eda-4fcc-baa8-5ea15144bb10")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -5527,7 +5767,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "CP_*")
+		(property "ki_fp_filters" "CP_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "cba2b40c-8165-49ce-a598-be767eada561")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/1de5ff92-b06c-4b7d-8da4-f2e500d319de")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -5737,7 +5987,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "CP_*")
+		(property "ki_fp_filters" "CP_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "3f0f4827-9fa0-4157-9df7-01979569cdf6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/5928aa87-c2da-48e2-9e83-4bdcece09ca6")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -5947,7 +6207,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "C_*")
+		(property "ki_fp_filters" "C_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "b7af6dac-b705-403c-889c-cc199cf38c2d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/bd463095-032b-43f8-b2a3-11a22798c9c6")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -6157,7 +6427,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "C_*")
+		(property "ki_fp_filters" "C_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "ba26dceb-5be3-4dba-82c7-56149655dfb1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/8b2f0823-5fc3-415b-a5d6-1b442a799283")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -6367,7 +6647,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "C_*")
+		(property "ki_fp_filters" "C_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "4db1ee17-f7fb-4666-a7fd-61db1ded4d66")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/95dc3ed0-59f2-4beb-9ed5-ccc1b02e8075")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -6577,7 +6867,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "CP_*")
+		(property "ki_fp_filters" "CP_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "e62508b1-b8a5-4151-b860-fd1bf8698ed1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/4dea0287-ff28-4435-8d2a-38b9b4d40e87")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -6978,7 +7278,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_*")
+		(property "ki_fp_filters" "R_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "422da91d-0877-4cd4-8c4c-c1bb1fea27b2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/3becb73b-31a0-4138-96ce-9f5fc4e71b46")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -7188,7 +7498,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_*")
+		(property "ki_fp_filters" "R_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "7473737e-415e-4835-8446-f3454adbb9b5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/d5dce110-98aa-4f11-baf4-3c639f23d511")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -7398,7 +7718,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "C_*")
+		(property "ki_fp_filters" "C_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "738ad491-9172-4941-9520-2b88f39bb647")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/fac2347d-2279-4f4b-ab8c-ae7ea7ce58d9")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -7608,7 +7938,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "C_*")
+		(property "ki_fp_filters" "C_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "260496c6-d5da-4c13-9d9e-7bd07b0fe664")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/dd5199ac-d1f9-49fb-b600-1cc6b6024096")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -7818,7 +8158,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "C_*")
+		(property "ki_fp_filters" "C_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "7e3b1f67-65ef-4f2d-bb3f-6dfa7e8c1586")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/4f72ab4c-62f2-4ed0-8b33-7f0a4b2e92dd")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -8028,7 +8378,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "CP_*")
+		(property "ki_fp_filters" "CP_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "6e9686ae-789c-471c-b96f-826e7b65a108")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/4a4bbee1-5f7c-46b9-9b42-9c8c7d096cbc")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -8429,7 +8789,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_*")
+		(property "ki_fp_filters" "R_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "547b8d06-7694-4c44-91db-f4626eca1d09")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/c3fc331c-daa6-442f-9400-5c6de6d8b7db")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -8639,7 +9009,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "DIP*W7.62mm*")
+		(property "ki_fp_filters" "DIP*W7.62mm*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "da77ad25-7c53-4384-ba14-c13d19f3e26c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/18cc66f8-e9c4-459a-b865-660973f94995")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -9111,7 +9491,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_*")
+		(property "ki_fp_filters" "R_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "665a13e0-a4ed-49fa-ab0a-503977ee879c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/dfcf583d-b2c1-46b0-911d-3ac1c74ead6a")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -9321,7 +9711,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_*")
+		(property "ki_fp_filters" "R_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "d057e1ef-9533-4230-8f11-131555014f6b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/8431af79-552d-4700-8a9a-6819d5bfcede")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -9531,7 +9931,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_*")
+		(property "ki_fp_filters" "R_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "a618cc1f-5183-4919-9e03-2ee01990be9d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/14a4f972-3bf7-4551-83b5-daae29377119")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -9741,7 +10151,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_*")
+		(property "ki_fp_filters" "R_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "1f14afa4-dc27-432e-af2c-d27b28b70158")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/a36684c6-59bc-4271-912b-dbe0f9cc27ef")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -9951,7 +10371,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_*")
+		(property "ki_fp_filters" "R_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "b381098f-4f70-4e8e-a3b8-74d500a32ced")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/15cf58ad-9807-41ac-ae6e-765cce745223")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -10161,7 +10591,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_*")
+		(property "ki_fp_filters" "R_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "c441eff3-b5d1-4847-9240-bdcd7688df7a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/488b7198-e6b9-4545-9609-43e62f85411b")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -10371,7 +10811,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "CP_*")
+		(property "ki_fp_filters" "CP_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "100967de-51de-481a-af17-65da35664973")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/70e0a0f4-34d0-40c7-97df-dd45c9443952")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -10581,7 +11031,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_*")
+		(property "ki_fp_filters" "R_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "883dde91-fb81-4b29-a1c0-360e525c037e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/5709b763-bbbd-474a-a453-842ac09767a2")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -10791,7 +11251,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "CP_*")
+		(property "ki_fp_filters" "CP_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "0cec594a-673a-48c7-9179-109a632c7ced")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/d9360793-e6a7-407e-b8b7-2bb394c98b08")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -11001,7 +11471,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "SOIC*3.9x4.9mm*P1.27mm*")
+		(property "ki_fp_filters" "SOIC*3.9x4.9mm*P1.27mm*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "f996398b-bc36-4e39-bf88-5498c7baf21c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/f0fd2931-8bb7-41a4-a321-106ad2c69628")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -11299,7 +11779,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "C_*")
+		(property "ki_fp_filters" "C_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "b65bb5f6-6a40-4e01-8fa1-32f0c5ca1060")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/9c87c4ea-784a-4c54-ac10-c0438b833216")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -11509,7 +11999,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "CP_*")
+		(property "ki_fp_filters" "CP_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "5e04b6a3-3a72-41e6-8ac6-66ec5118709d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/fc51bf0e-c4d0-40a5-8479-0bcf756723e1")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -11719,7 +12219,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "CP_*")
+		(property "ki_fp_filters" "CP_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "297bb8b4-d0eb-4f88-be44-c40122e6654a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/713598ae-34c7-482c-9da6-b14c5e2454a9")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -11929,7 +12439,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "C_*")
+		(property "ki_fp_filters" "C_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "ed39ffa4-f9ff-4560-b79c-271d1d045c45")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/54299cf0-f450-4d0a-9112-49ccd6e5f88e")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -12084,6 +12604,7 @@
 		(property "Reference" "J2"
 			(at 0 -1.56 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "58ffc4df-35f6-4bb2-ad3e-576ca6528864")
 			(effects
 				(font
@@ -12139,7 +12660,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "Connector*:*_1x??_*")
+		(property "ki_fp_filters" "Connector*:*_1x??_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "cab1129f-77b5-4158-8bb0-98c5a8b4705d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/f8d71154-a233-4842-8618-859c837f48e3")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -12402,7 +12933,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "C_*")
+		(property "ki_fp_filters" "C_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "ee5c8ed0-cb74-4360-a425-37635ad564d9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/09e5e061-50d2-43f2-9a69-85890945e667")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -12612,7 +13153,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "C_*")
+		(property "ki_fp_filters" "C_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "0f8a7e28-e2b0-4536-99e2-4338489f2233")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/7149ff7f-9ce6-48b1-a1ee-181ef6dec162")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -12822,7 +13373,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_*")
+		(property "ki_fp_filters" "R_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "032ed5f6-30ea-41cd-9722-3a6835aeaabc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/8185d1b0-2954-4e4f-a8ad-9f61db7cf3e0")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -13032,7 +13593,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "SOIC*3.9x8.7mm*P1.27mm* DIP*W7.62mm* TSSOP*4.4x5mm*P0.65mm* SSOP*5.3x6.2mm*P0.65mm* MSOP*3x3mm*P0.5mm*")
+		(property "ki_fp_filters" "SOIC*3.9x8.7mm*P1.27mm* DIP*W7.62mm* TSSOP*4.4x5mm*P0.65mm* SSOP*5.3x6.2mm*P0.65mm* MSOP*3x3mm*P0.5mm*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "f6f4c368-b43e-490a-a690-0fb4fcfa4dbd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/2cb06acf-40f5-4815-a178-eaf3ba586424")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -13390,7 +13961,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_*")
+		(property "ki_fp_filters" "R_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "43ae35ef-7944-4894-90b8-c90dca5a944a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/607f5fc2-00dd-4086-b796-3c0d2782c46c")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -13600,7 +14181,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_*")
+		(property "ki_fp_filters" "R_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "f23f8ff5-de51-41b5-8a73-8b4145b931d6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/579ed148-1711-4a2e-923e-6efe2bb5c08c")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -13810,7 +14401,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_*")
+		(property "ki_fp_filters" "R_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "2e059de6-7b91-450f-bfc1-e82c5b6388da")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/9519c0e4-9177-457f-ad29-9f85730d46a7")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -14020,7 +14621,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "CP_*")
+		(property "ki_fp_filters" "CP_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "4da912e4-9412-46b0-a4ac-a0e8ef933367")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/9ade9d5f-97e8-4327-925a-8dab42c5cbb7")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -14230,7 +14841,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_*")
+		(property "ki_fp_filters" "R_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "2e87c15f-1f6e-439b-9916-e26bbb6de583")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/6747d653-9373-4a16-91f1-d74e4d57e5ec")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -14440,7 +15061,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_*")
+		(property "ki_fp_filters" "R_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "392278a2-e425-42dc-9f69-243673ec3cc2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/75e4f82a-56b2-4bf3-ba92-5a7963ebcbe7")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -14650,7 +15281,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_*")
+		(property "ki_fp_filters" "R_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "d36bd9b0-a3f0-4186-8de5-cee3318a811f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/56c029d2-3064-4118-8ce8-8248a0cae03e")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -14860,7 +15501,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_*")
+		(property "ki_fp_filters" "R_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "c4ab1772-a0e8-415a-9383-4a7683a20ece")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/4324fc09-0391-4d7f-a480-2fb47c5c4b74")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -15070,7 +15721,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_*")
+		(property "ki_fp_filters" "R_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "6ee81acf-84b2-4b27-9ab8-21ab8ee5c49a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/aced1c83-1deb-4aee-87b3-3e0b707a3333")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -15280,7 +15941,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "CP_*")
+		(property "ki_fp_filters" "CP_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "a2eeffc9-44ea-4b77-bdf3-3a7f871c6c82")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/41ca40a7-ba3b-4a06-8a17-c3638655cae9")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -15490,7 +16161,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_*")
+		(property "ki_fp_filters" "R_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "9de9ac18-7227-45d1-9e14-11bd7e50d049")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/7cea53ac-fe14-4cd9-b02e-78556501ee63")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -15700,7 +16381,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "CP_*")
+		(property "ki_fp_filters" "CP_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "0cdddf18-d024-4c57-abf6-828a36010b3e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/ffd9c1fb-0d90-43b1-96fb-886838ea2972")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -15910,7 +16601,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "CP_*")
+		(property "ki_fp_filters" "CP_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "b3926c9a-c597-4272-823a-9c2d4f5a6422")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/dd7e8b82-5061-40d1-831a-7f1617a10672")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -16120,7 +16821,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "C_*")
+		(property "ki_fp_filters" "C_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "ada41f41-5660-4415-b13d-835ee5099c6a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/09cbe475-9557-4f9b-8c96-cb4e1fd3a418")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -16330,7 +17041,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_*")
+		(property "ki_fp_filters" "R_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "3cddf17f-805f-4c2e-8ddb-805a766ec8e0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/7bca0986-70d9-44d2-8544-1daa6cc610fa")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -16483,7 +17204,7 @@
 		(descr "Through hole straight pin header, 2x08, 2.54mm pitch, double rows")
 		(tags "Through hole pin header THT 2x08 2.54mm double row")
 		(property "Reference" "J1"
-			(at 1.27 -2.33 270)
+			(at 1.27 -2.33 -90)
 			(layer "F.SilkS")
 			(uuid "eac610a0-1dae-44e5-83b4-51615f8b2169")
 			(effects
@@ -16494,7 +17215,7 @@
 			)
 		)
 		(property "Value" "Conn_01x16_Pin"
-			(at 1.27 20.11 270)
+			(at 1.27 20.11 -90)
 			(layer "F.Fab")
 			(uuid "6175ac04-4d82-452b-8bb0-0f579051c559")
 			(effects
@@ -16540,7 +17261,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "Connector*:*_1x??_*")
+		(property "ki_fp_filters" "Connector*:*_1x??_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "94520475-1f16-4deb-9549-dee90cf49b76")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/203a2b20-48d6-481f-8d01-47a805624ff2")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -16716,7 +17447,7 @@
 			(uuid "c42e0186-e8bc-48fe-9732-1fbc7ffd55db")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 8.89 360)
+			(at 1.27 8.89 0)
 			(layer "F.Fab")
 			(uuid "538e0505-c189-48cd-a246-d662ea687580")
 			(effects
@@ -16978,7 +17709,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "CP_*")
+		(property "ki_fp_filters" "CP_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "e7cd272a-e3a7-4dfc-99d3-47717cf3e57e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/a6cbc405-6241-4035-93e8-56a5a4a6cd43")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -17188,7 +17929,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_*")
+		(property "ki_fp_filters" "R_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "6be79606-6630-4901-af04-df973eb05202")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/dbf0ee09-c723-49b1-a1dc-ac8a080f3c67")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -17398,7 +18149,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_*")
+		(property "ki_fp_filters" "R_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "cf097f5c-f7c4-4920-a67e-df3b06ddd351")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/99b8d1c4-2674-456d-9c0e-06879365a99d")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -17608,7 +18369,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_*")
+		(property "ki_fp_filters" "R_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "0357d1b1-7638-4a6c-b728-a5a797592659")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/a0b00494-07c7-403d-86ea-f33b534a5c3b")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -17818,7 +18589,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "CP_*")
+		(property "ki_fp_filters" "CP_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "c94474fe-e6a3-47d3-ad7a-ac4f7f0a4062")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/bb8777d1-26a5-4524-b97b-22395a37ff42")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -18028,7 +18809,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "C_*")
+		(property "ki_fp_filters" "C_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "19c58895-39a1-443f-987c-81e9f40a47e4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/71e068aa-341a-4a0d-8885-cd9d4951102c")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -18238,7 +19029,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "CP_*")
+		(property "ki_fp_filters" "CP_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "93d36722-a43e-4ae4-b79f-2b150551a424")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/330de0f2-59e6-408e-9aa8-a0fa56d8bb30")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -18448,7 +19249,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "C_*")
+		(property "ki_fp_filters" "C_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "521e5138-66f4-437a-b373-93abf155f40b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/d34196e5-89d1-4c0d-b350-b12058981411")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -18658,7 +19469,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "CP_*")
+		(property "ki_fp_filters" "CP_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "a8f075ad-421c-4ea5-a9d9-1d745abab2ad")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/2de545ae-3f52-42c8-bfda-c5ba2345a58a")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -18868,7 +19689,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "CP_*")
+		(property "ki_fp_filters" "CP_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "09a7820b-9eaa-4139-aed6-0ff772b477c0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/f6f6f51c-ed0b-41c6-b164-199c4b5e2919")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -19078,7 +19909,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "CP_*")
+		(property "ki_fp_filters" "CP_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "545eedd3-0947-4ec8-a071-d5dd86f2a2fe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/e35e98a7-189f-4eed-a997-de7a434de863")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -19288,7 +20129,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_*")
+		(property "ki_fp_filters" "R_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "e6c281c6-b8f3-4152-8dd4-bbc1b0be5a9b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/8d68000b-5562-44b8-9a3e-21479dca1fd8")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -19498,7 +20349,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_*")
+		(property "ki_fp_filters" "R_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "3a824cde-4669-4ff7-8bcb-47430dfd7779")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/6c0aa522-cfe3-4d7b-a61f-ab00ee999c6a")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -19708,7 +20569,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_*")
+		(property "ki_fp_filters" "R_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "4f023ba6-7bd3-4f4e-bfc2-7a3ef4c2136c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/759c97dc-e4a3-44ec-8253-9811beff94ea")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -19918,7 +20789,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_*")
+		(property "ki_fp_filters" "R_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "fd754ade-3663-4754-9213-1cc78a7c9414")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/5f39cefd-b7f5-4c6d-9bd0-968126bd4748")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -20128,7 +21009,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_*")
+		(property "ki_fp_filters" "R_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "b4d8d841-d9d4-4ed2-9e54-0e72642d53c9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/35ba9f6f-9f8a-4850-a1c9-ad78a01ba7d7")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -20338,7 +21229,17 @@
 				)
 			)
 		)
-		(property ki_fp_filters "CP_*")
+		(property "ki_fp_filters" "CP_*"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "0e85922d-6d2f-4e9c-b740-342b464378b4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/66036e3c-8b4c-4337-9d2c-f72956ffed85")
 		(sheetname "Root")
 		(sheetfile "parallel_trail.kicad_sch")
@@ -20713,6 +21614,18 @@
 				(size 2 2)
 				(thickness 0.5)
 				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "+3.3V"
+		(at 78.994 81.28 0)
+		(layer "F.SilkS")
+		(uuid "4ba8b8d4-26d1-4303-85df-6baca1825083")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
 			)
 			(justify left bottom)
 		)
